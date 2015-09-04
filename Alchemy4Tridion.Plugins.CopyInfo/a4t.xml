@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="http://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <id>555e2ed73913f516a090e5ca</id>
+  <name>Copy_Info</name>
+  <description><![CDATA[This plugin allows you to copy the details of an item:
+<li>Title</li>
+<li>TCM ID</li>
+<li>WebDav Path</li>
+<li>Published URL</li>
+
+<p>Once installed simply <b>right-click</b> an item within the CMS and use the menu entry <b>Copy Info</b>.</p>
+
+<p>If you have flash installed the information is placed directly on your clipboard, if not a small dialog will appear to allow you to manually copy and paste the content.</p>]]></description>
+  <version>1.0.0.0</version>
+  <settings>
+    <UseFlashOverlay c:type="bool">true</UseFlashOverlay>
+  </settings>
+  <versionId>5579d2ae58072a0828dedcf3</versionId>
+</plugin>

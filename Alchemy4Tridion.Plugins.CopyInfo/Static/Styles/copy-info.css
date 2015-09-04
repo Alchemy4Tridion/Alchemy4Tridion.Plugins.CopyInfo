@@ -1,0 +1,4 @@
+﻿/* context menu item */
+.contextmenu #cm_copyinfo > .image {
+    background-image: url('${ImgUrl}icon-16x16.png');
+}
